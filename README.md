@@ -7,3 +7,4 @@ Use @lvermue's model for explicit GHA requests while also allowing pull requests
 - Update 3
 - Update 4
 - Update 5
+- Update 6
